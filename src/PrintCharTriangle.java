@@ -18,6 +18,7 @@ public static void main(String[] args){
 	System.out.print((char)(j + 97) + " ");
 	}
 	System.out.println();
+	console.close();
 }
 }
 }
